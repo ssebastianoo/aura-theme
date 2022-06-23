@@ -67,11 +67,11 @@
   </tr>
   <tr>
     <td>Purple</td>
-    <td>#3d375e7f</td>
+    <td>#3d375e</td>
     <td>61,55,94</td>
     <td>accent20</td>
     <td>Selections</td>
-    <td><img src="https://placeholder.pics/svg/20x20/3d375e7f" /></td>
+    <td><img src="https://placeholder.pics/svg/20x20/3d375e" /></td>
   </tr>
   <tr>
     <td>Green</td>
